@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0176-second-highest-salary) |
 | [1068-product-sales-analysis-i](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
