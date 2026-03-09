@@ -12,4 +12,12 @@
 | [1068-product-sales-analysis-i](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
