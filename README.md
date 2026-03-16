@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -37,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -46,4 +49,12 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
