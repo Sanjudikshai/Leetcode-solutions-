@@ -10,6 +10,7 @@
 | [0197-rising-temperature](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1068-product-sales-analysis-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
