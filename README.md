@@ -26,11 +26,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -48,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 ## Divide and Conquer
 |  |
