@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
