@@ -34,6 +34,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -49,6 +50,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -62,6 +64,7 @@
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
