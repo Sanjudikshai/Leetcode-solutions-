@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
@@ -57,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
