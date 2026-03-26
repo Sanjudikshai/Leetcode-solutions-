@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0509-fibonacci-number) |
