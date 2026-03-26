@@ -44,6 +44,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,4 +91,12 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
