@@ -78,6 +78,7 @@
 | [0088-merge-sorted-array](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0125-valid-palindrome](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
