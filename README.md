@@ -89,6 +89,7 @@
 | [0012-integer-to-roman](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
