@@ -31,12 +31,14 @@
 | [0217-contains-duplicate](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [0088-merge-sorted-array](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
