@@ -102,6 +102,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
+| [1392-longest-happy-prefix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1392-longest-happy-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,4 +146,16 @@
 | [0037-sudoku-solver](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0078-subsets) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
