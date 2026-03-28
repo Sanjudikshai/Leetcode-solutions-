@@ -24,6 +24,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0136-single-number) |
@@ -36,6 +37,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
