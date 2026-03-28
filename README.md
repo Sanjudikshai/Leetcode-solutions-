@@ -24,6 +24,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0078-subsets) |
@@ -103,6 +104,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -111,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
