@@ -4,5 +4,3 @@ class Solution:
             if s[:i] == s[-i:]:
                 return s[:i]
         return ""
-
-        
