@@ -109,6 +109,7 @@
 | [0443-string-compression](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 | [1392-longest-happy-prefix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1392-longest-happy-prefix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,4 +169,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
