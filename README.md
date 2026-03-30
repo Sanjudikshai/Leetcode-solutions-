@@ -41,6 +41,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,6 +199,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -212,4 +214,8 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
