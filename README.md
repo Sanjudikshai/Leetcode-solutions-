@@ -51,6 +51,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -91,6 +92,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -218,4 +221,20 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
