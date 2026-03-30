@@ -38,6 +38,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
+| [2596-check-knight-tour-configuration](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -138,6 +139,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
+| [2596-check-knight-tour-configuration](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -183,4 +185,13 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
