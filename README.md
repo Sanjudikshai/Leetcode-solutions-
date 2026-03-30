@@ -60,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -94,6 +95,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -108,6 +110,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0680-valid-palindrome-ii) |
 | [1392-longest-happy-prefix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -171,6 +174,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
