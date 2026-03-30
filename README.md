@@ -39,6 +39,7 @@
 | [0051-n-queens](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -90,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
@@ -158,6 +160,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
