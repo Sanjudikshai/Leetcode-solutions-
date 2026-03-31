@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0040-combination-sum-ii) |
@@ -99,6 +100,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0088-merge-sorted-array) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0125-valid-palindrome) |
