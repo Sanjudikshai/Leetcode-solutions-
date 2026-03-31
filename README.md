@@ -52,6 +52,7 @@
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -249,4 +251,16 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
