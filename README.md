@@ -55,6 +55,7 @@
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [2596-check-knight-tour-configuration](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -79,6 +80,7 @@
 | [0217-contains-duplicate](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
