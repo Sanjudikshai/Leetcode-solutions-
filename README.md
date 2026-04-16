@@ -200,6 +200,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -295,4 +296,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
