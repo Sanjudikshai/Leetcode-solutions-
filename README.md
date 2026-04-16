@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0015-3sum) |
@@ -104,6 +105,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0287-find-the-duplicate-number) |
@@ -156,6 +158,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Sanjudikshai/Leetcode-solutions-/tree/master/0493-reverse-pairs) |
